@@ -1,8 +1,18 @@
-# Sales Analytics Pipeline (SQL → Excel → Power BI)
+# Sales Analytics Pipeline (SQL → Excel → Power BI
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Overview
 This project demonstrates an end-to-end data analytics pipeline using SQL, Excel, and Power BI.
 
+## Project Structure
+
+- sql/ → SQL scripts for database setup and analysis
+- data/ → cleaned Excel dataset
+- powerbi/ → Power BI dashboard file
+- screenshots/ → dashboard preview image
+- 
 ## Tools Used
 - SQLite
 - Microsoft Excel
