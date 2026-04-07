@@ -1,4 +1,5 @@
-# Sales Analytics Pipeline (SQL → Excel → Power BI
+# Sales Analytics Pipeline (SQL → Excel → Power BI)
+
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
@@ -12,7 +13,7 @@ This project demonstrates an end-to-end data analytics pipeline using SQL, Excel
 - data/ → cleaned Excel dataset
 - powerbi/ → Power BI dashboard file
 - screenshots/ → dashboard preview image
-- 
+
 ## Tools Used
 - SQLite
 - Microsoft Excel
@@ -45,8 +46,8 @@ This project demonstrates an end-to-end data analytics pipeline using SQL, Excel
 - Revenue peaks in February
 
 ## Files
-- database_setup.sql → table creation and inserts
-- analysis_queries.sql → SQL queries and KPIs
-- sales_clean.xlsx → cleaned dataset
-- sales_dashboard.pbix → Power BI dashboard
-- dashboard.png → dashboard preview
+- sql/database_setup.sql → table creation and inserts
+- sql/analysis_queries.sql → SQL queries and KPIs
+- data/sales_clean.xlsx → cleaned dataset
+- powerbi/sales_dashboard.pbix → Power BI dashboard
+- screenshots/dashboard.png → dashboard preview
